@@ -4,7 +4,9 @@ software development and system administration practices.
 The course focuses on version control using Git, collaboration
 through GitHub, and automation using CI/CD tools.
 Students learn how DevOps improves teamwork, efficiency,
-and reliability in software development projects.
+and reliability in software development projects. The course helps students understand real-world DevOps workflows used in the industry.
 
-Students gain hands-on experience with CI/CD pipelines and automation tools.
+
+Students gain hands-on experience with CI/CD pipelines and automation tools. COMP 2156 prepares students for DevOps roles by emphasizing collaboration and automation.
+
 
