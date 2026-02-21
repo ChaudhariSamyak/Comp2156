@@ -5,6 +5,21 @@ node_js:
 
 dist: focal
 
+branches:
+  only:
+    - main
+
+cache:
+  directories:
+    - node_modules
+
+install:
+  - npm install
+
+script:
+  - npm run build
+  - mv build/index.html build/404.html
+
 deploy:
   provider: pages
   skip_cleanup: true
